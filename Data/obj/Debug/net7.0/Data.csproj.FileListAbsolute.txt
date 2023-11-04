@@ -1,0 +1,11 @@
+C:\Users\ACER\Documents\Development\C#\Aplicaciones Web\LookMedico-API\Data\bin\Debug\net7.0\Data.deps.json
+C:\Users\ACER\Documents\Development\C#\Aplicaciones Web\LookMedico-API\Data\bin\Debug\net7.0\Data.dll
+C:\Users\ACER\Documents\Development\C#\Aplicaciones Web\LookMedico-API\Data\bin\Debug\net7.0\Data.pdb
+C:\Users\ACER\Documents\Development\C#\Aplicaciones Web\LookMedico-API\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\Development\C#\Aplicaciones Web\LookMedico-API\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\Development\C#\Aplicaciones Web\LookMedico-API\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+C:\Users\ACER\Documents\Development\C#\Aplicaciones Web\LookMedico-API\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Development\C#\Aplicaciones Web\LookMedico-API\Data\obj\Debug\net7.0\Data.dll
+C:\Users\ACER\Documents\Development\C#\Aplicaciones Web\LookMedico-API\Data\obj\Debug\net7.0\refint\Data.dll
+C:\Users\ACER\Documents\Development\C#\Aplicaciones Web\LookMedico-API\Data\obj\Debug\net7.0\Data.pdb
+C:\Users\ACER\Documents\Development\C#\Aplicaciones Web\LookMedico-API\Data\obj\Debug\net7.0\ref\Data.dll
